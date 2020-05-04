@@ -1,7 +1,7 @@
 # 201916007_IT550_IR_Project
 Text Classification to Identify Terrorist Events in Documents
 
-# Repository Details
+## Repository Details
 
 ### Clone the repository by runing the following command on terminal:
 
