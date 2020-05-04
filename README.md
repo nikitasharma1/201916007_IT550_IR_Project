@@ -21,6 +21,6 @@ Access rights to DAIICT email ids
 https://drive.google.com/open?id=1HUIzDdKDVTBt4yp7coEEjzS6n8qEbGO6
 
 - Download FIRE_DATABASE_FILES directory and add it to main directory
-- Download DATABASES DIRECTORY and add it to main directory
+- Download DATABASES directory and add it to main directory
 - Run the IPython notebooks for verification of results
 - The pdf and text files in main directory contains the results
