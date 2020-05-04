@@ -1,0 +1,2000 @@
+Unknown Event                                      1041207_atleisure_index.utf8
+
+Unknown Event                                      1041208_atleisure_index.utf8
+
+Unknown Event                                      1041210_atleisure_index.utf8
+
+Unknown Event                                      1041211_atleisure_index.utf8
+
+Unknown Event                                      1041213_atleisure_index.utf8
+
+Unknown Event                                      1041213_atleisure_story_4109250.utf8
+
+Unknown Event                                      1041213_atleisure_story_4121739.utf8
+
+Unknown Event                                      1041213_atleisure_story_4121740.utf8
+
+Unknown Event                                      1041213_atleisure_story_4121741.utf8
+
+Unknown Event                                      1041213_atleisure_story_4122608.utf8
+
+Unknown Event                                      1041214_atleisure_index.utf8
+
+Unknown Event                                      1041214_atleisure_story_4104626.utf8
+
+Unknown Event                                      1041214_atleisure_story_4123870.utf8
+
+Unknown Event                                      1041214_atleisure_story_4125737.utf8
+
+Unknown Event                                      1041214_atleisure_story_4125738.utf8
+
+Facility/Infrastructure Attack                     1041214_atleisure_story_4125739.utf8
+
+Unknown Event                                      1041215_atleisure_index.utf8
+
+Unknown Event                                      1041215_atleisure_story_4127714.utf8
+
+Unknown Event                                      1041215_atleisure_story_4130259.utf8
+
+Unknown Event                                      1041215_atleisure_story_4130260.utf8
+
+Bombing/Explosion                                  1041215_atleisure_story_4131410.utf8
+
+Unknown Event                                      1041217_atleisure_index.utf8
+
+Unknown Event                                      1041217_atleisure_story_4127399.utf8
+
+Unknown Event                                      1041217_atleisure_story_4127400.utf8
+
+Unknown Event                                      1041217_atleisure_story_4127402.utf8
+
+Unknown Event                                      1041217_atleisure_story_4139383.utf8
+
+Unknown Event                                      1041217_atleisure_story_4139384.utf8
+
+Unknown Event                                      1041217_atleisure_story_4140664.utf8
+
+Unknown Event                                      1041218_atleisure_index.utf8
+
+Unknown Event                                      1041218_atleisure_story_4136553.utf8
+
+Unknown Event                                      1041218_atleisure_story_4144088.utf8
+
+Unknown Event                                      1041218_atleisure_story_4144090.utf8
+
+Unknown Event                                      1041220_atleisure_index.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151049.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151050.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151051.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151052.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151053.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151931.utf8
+
+Unknown Event                                      1041220_atleisure_story_4151935.utf8
+
+Unknown Event                                      1041221_atleisure_index.utf8
+
+Unknown Event                                      1041221_atleisure_story_4152103.utf8
+
+Unknown Event                                      1041221_atleisure_story_4152161.utf8
+
+Facility/Infrastructure Attack                     1041221_atleisure_story_4155153.utf8
+
+Unknown Event                                      1041221_atleisure_story_4155154.utf8
+
+Unknown Event                                      1041221_atleisure_story_4155155.utf8
+
+Unknown Event                                      1041221_atleisure_story_4155156.utf8
+
+Unknown Event                                      1041222_atleisure_index.utf8
+
+Unknown Event                                      1041222_atleisure_story_4157661.utf8
+
+Unknown Event                                      1041222_atleisure_story_4159405.utf8
+
+Unknown Event                                      1041222_atleisure_story_4159406.utf8
+
+Unknown Event                                      1041222_atleisure_story_4159407.utf8
+
+Unknown Event                                      1041222_atleisure_story_4160535.utf8
+
+Unknown Event                                      1041224_atleisure_index.utf8
+
+Unknown Event                                      1041224_atleisure_story_4157084.utf8
+
+Unknown Event                                      1041224_atleisure_story_4157118.utf8
+
+Unknown Event                                      1041224_atleisure_story_4168326.utf8
+
+Unknown Event                                      1041224_atleisure_story_4168585.utf8
+
+Armed Assault                                      1041224_atleisure_story_4168586.utf8
+
+Unknown Event                                      1041224_atleisure_story_4168587.utf8
+
+Unknown Event                                      1041224_atleisure_story_4169713.utf8
+
+Unknown Event                                      1041225_atleisure_index.utf8
+
+Armed Assault                                      1041225_atleisure_story_4170517.utf8
+
+Unknown Event                                      1041225_atleisure_story_4172862.utf8
+
+Unknown Event                                      1041225_atleisure_story_4172864.utf8
+
+Unknown Event                                      1041225_atleisure_story_4172865.utf8
+
+Unknown Event                                      1041227_atleisure_index.utf8
+
+Unknown Event                                      1041227_atleisure_story_4166269.utf8
+
+Unknown Event                                      1041227_atleisure_story_4170844.utf8
+
+Unknown Event                                      1041227_atleisure_story_4179432.utf8
+
+Unknown Event                                      1041227_atleisure_story_4179433.utf8
+
+Unknown Event                                      1041227_atleisure_story_4179434.utf8
+
+Unknown Event                                      1041227_atleisure_story_4179435.utf8
+
+Unknown Event                                      1041228_atleisure_index.utf8
+
+Unknown Event                                      1041228_atleisure_story_4174742.utf8
+
+Unknown Event                                      1041228_atleisure_story_4180558.utf8
+
+Unknown Event                                      1041229_atleisure_index.utf8
+
+Unknown Event                                      1041229_atleisure_story_4167555.utf8
+
+Unknown Event                                      1041229_atleisure_story_4188371.utf8
+
+Unknown Event                                      1041231_atleisure_index.utf8
+
+Unknown Event                                      1041231_atleisure_story_4181185.utf8
+
+Unknown Event                                      1041231_atleisure_story_4181188.utf8
+
+Unknown Event                                      1041231_atleisure_story_4181195.utf8
+
+Unknown Event                                      1041231_atleisure_story_4196058.utf8
+
+Unknown Event                                      1040901_bengal_index.utf8
+
+Unknown Event                                      1040901_bengal_story_3702359.utf8
+
+Unknown Event                                      1040901_bengal_story_3702360.utf8
+
+Unknown Event                                      1040901_bengal_story_3702361.utf8
+
+Unknown Event                                      1040901_bengal_story_3702362.utf8
+
+Facility/Infrastructure Attack                     1040901_bengal_story_3702363.utf8
+
+Unknown Event                                      1040901_bengal_story_3702364.utf8
+
+Unknown Event                                      1040902_bengal_index.utf8
+
+Unknown Event                                      1040902_bengal_story_3706193.utf8
+
+Unknown Event                                      1040902_bengal_story_3707327.utf8
+
+Armed Assault                                      1040902_bengal_story_3707328.utf8
+
+Unknown Event                                      1040902_bengal_story_3707329.utf8
+
+Unknown Event                                      1040902_bengal_story_3707331.utf8
+
+Unknown Event                                      1040902_bengal_story_3707852.utf8
+
+Unknown Event                                      1040903_bengal_index.utf8
+
+Unknown Event                                      1040903_bengal_story_3711731.utf8
+
+Unknown Event                                      1040903_bengal_story_3711732.utf8
+
+Facility/Infrastructure Attack                     1040903_bengal_story_3711734.utf8
+
+Unknown Event                                      1040903_bengal_story_3711819.utf8
+
+Unknown Event                                      1040903_bengal_story_3711897.utf8
+
+Unknown Event                                      1040903_bengal_story_3712822.utf8
+
+Unknown Event                                      1040903_bengal_story_3712823.utf8
+
+Unknown Event                                      1040904_bengal_index.utf8
+
+Unknown Event                                      1040904_bengal_story_3716204.utf8
+
+Unknown Event                                      1040904_bengal_story_3716205.utf8
+
+Unknown Event                                      1040904_bengal_story_3716206.utf8
+
+Unknown Event                                      1040904_bengal_story_3716207.utf8
+
+Unknown Event                                      1040904_bengal_story_3716486.utf8
+
+Unknown Event                                      1040905_bengal_index.utf8
+
+Unknown Event                                      1040905_bengal_story_3719222.utf8
+
+Unknown Event                                      1040905_bengal_story_3719880.utf8
+
+Unknown Event                                      1040905_bengal_story_3719881.utf8
+
+Unknown Event                                      1040905_bengal_story_3719882.utf8
+
+Unknown Event                                      1040905_bengal_story_3719883.utf8
+
+Unknown Event                                      1040905_bengal_story_3719885.utf8
+
+Unknown Event                                      1040905_bengal_story_3719887.utf8
+
+Unknown Event                                      1040905_bengal_story_3719930.utf8
+
+Unknown Event                                      1040905_bengal_story_3719931.utf8
+
+Unknown Event                                      1040905_bengal_story_3719932.utf8
+
+Unknown Event                                      1040905_bengal_story_3719933.utf8
+
+Unknown Event                                      1040905_bengal_story_3719934.utf8
+
+Unknown Event                                      1040905_bengal_story_3719935.utf8
+
+Unknown Event                                      1040906_bengal_index.utf8
+
+Unknown Event                                      1040906_bengal_story_3723219.utf8
+
+Unknown Event                                      1040906_bengal_story_3723220.utf8
+
+Unknown Event                                      1040906_bengal_story_3723221.utf8
+
+Unknown Event                                      1040906_bengal_story_3723222.utf8
+
+Unknown Event                                      1040906_bengal_story_3723223.utf8
+
+Unknown Event                                      1040906_bengal_story_3723224.utf8
+
+Unknown Event                                      1040906_bengal_story_3723566.utf8
+
+Unknown Event                                      1040907_bengal_index.utf8
+
+Facility/Infrastructure Attack                     1040907_bengal_story_3726693.utf8
+
+Unknown Event                                      1040907_bengal_story_3727082.utf8
+
+Unknown Event                                      1040907_bengal_story_3727083.utf8
+
+Unknown Event                                      1040907_bengal_story_3727084.utf8
+
+Unknown Event                                      1040907_bengal_story_3727432.utf8
+
+Unknown Event                                      1040908_bengal_index.utf8
+
+Unknown Event                                      1040908_bengal_story_3731388.utf8
+
+Unknown Event                                      1040908_bengal_story_3731624.utf8
+
+Unknown Event                                      1040908_bengal_story_3731625.utf8
+
+Unknown Event                                      1040908_bengal_story_3731626.utf8
+
+Unknown Event                                      1040908_bengal_story_3731627.utf8
+
+Unknown Event                                      1040908_bengal_story_3731628.utf8
+
+Unknown Event                                      1040908_bengal_story_3731629.utf8
+
+Unknown Event                                      1040909_bengal_index.utf8
+
+Unknown Event                                      1040909_bengal_story_3735938.utf8
+
+Unknown Event                                      1040909_bengal_story_3735939.utf8
+
+Unknown Event                                      1040909_bengal_story_3735940.utf8
+
+Unknown Event                                      1040909_bengal_story_3735941.utf8
+
+Unknown Event                                      1040909_bengal_story_3736219.utf8
+
+Unknown Event                                      1040910_bengal_index.utf8
+
+Unknown Event                                      1040910_bengal_story_3740568.utf8
+
+Unknown Event                                      1040910_bengal_story_3740569.utf8
+
+Unknown Event                                      1040910_bengal_story_3740570.utf8
+
+Unknown Event                                      1040910_bengal_story_3740571.utf8
+
+Unknown Event                                      1040910_bengal_story_3740572.utf8
+
+Unknown Event                                      1040910_bengal_story_3740749.utf8
+
+Unknown Event                                      1040911_bengal_index.utf8
+
+Unknown Event                                      1040911_bengal_story_3745204.utf8
+
+Unknown Event                                      1040911_bengal_story_3745205.utf8
+
+Unknown Event                                      1040911_bengal_story_3745206.utf8
+
+Unknown Event                                      1040911_bengal_story_3745207.utf8
+
+Unknown Event                                      1040911_bengal_story_3745208.utf8
+
+Unknown Event                                      1040911_bengal_story_3745209.utf8
+
+Bombing/Explosion                                  1040912_bengal_index.utf8
+
+Unknown Event                                      1040912_bengal_story_3747493.utf8
+
+Unknown Event                                      1040912_bengal_story_3748047.utf8
+
+Unknown Event                                      1040912_bengal_story_3748048.utf8
+
+Unknown Event                                      1040912_bengal_story_3748049.utf8
+
+Unknown Event                                      1040912_bengal_story_3748050.utf8
+
+Unknown Event                                      1040912_bengal_story_3748051.utf8
+
+Unknown Event                                      1040912_bengal_story_3748213.utf8
+
+Armed Assault                                      1040912_bengal_story_3748214.utf8
+
+Bombing/Explosion                                  1040912_bengal_story_3748216.utf8
+
+Unknown Event                                      1040912_bengal_story_3748217.utf8
+
+Unknown Event                                      1040912_bengal_story_3748218.utf8
+
+Unknown Event                                      1040912_bengal_story_3748219.utf8
+
+Unknown Event                                      1040913_bengal_index.utf8
+
+Unknown Event                                      1040913_bengal_story_3751320.utf8
+
+Unknown Event                                      1040913_bengal_story_3751322.utf8
+
+Unknown Event                                      1040913_bengal_story_3751324.utf8
+
+Unknown Event                                      1040913_bengal_story_3751325.utf8
+
+Unknown Event                                      1040913_bengal_story_3751326.utf8
+
+Armed Assault                                      1040913_bengal_story_3751551.utf8
+
+Unknown Event                                      1040914_bengal_index.utf8
+
+Unknown Event                                      1040914_bengal_story_3755342.utf8
+
+Unknown Event                                      1040914_bengal_story_3755343.utf8
+
+Unknown Event                                      1040914_bengal_story_3755344.utf8
+
+Unknown Event                                      1040914_bengal_story_3755345.utf8
+
+Unknown Event                                      1040914_bengal_story_3755346.utf8
+
+Unknown Event                                      1040914_bengal_story_3755349.utf8
+
+Unknown Event                                      1040915_bengal_index.utf8
+
+Unknown Event                                      1040915_bengal_story_3760154.utf8
+
+Unknown Event                                      1040915_bengal_story_3760155.utf8
+
+Unknown Event                                      1040915_bengal_story_3760156.utf8
+
+Unknown Event                                      1040915_bengal_story_3760157.utf8
+
+Unknown Event                                      1040915_bengal_story_3760158.utf8
+
+Unknown Event                                      1040915_bengal_story_3760159.utf8
+
+Unknown Event                                      1040915_bengal_story_3760160.utf8
+
+Unknown Event                                      1040915_bengal_story_3760161.utf8
+
+Unknown Event                                      1040916_bengal_index.utf8
+
+Unknown Event                                      1040916_bengal_story_3764186.utf8
+
+Unknown Event                                      1040916_bengal_story_3764187.utf8
+
+Unknown Event                                      1040916_bengal_story_3764188.utf8
+
+Unknown Event                                      1040916_bengal_story_3764189.utf8
+
+Unknown Event                                      1040916_bengal_story_3764190.utf8
+
+Unknown Event                                      1040916_bengal_story_3764191.utf8
+
+Unknown Event                                      1040916_bengal_story_3764765.utf8
+
+Unknown Event                                      1040917_bengal_index.utf8
+
+Unknown Event                                      1040917_bengal_story_3766311.utf8
+
+Unknown Event                                      1040917_bengal_story_3768886.utf8
+
+Unknown Event                                      1040917_bengal_story_3768887.utf8
+
+Unknown Event                                      1040917_bengal_story_3768888.utf8
+
+Unknown Event                                      1040917_bengal_story_3769066.utf8
+
+Unknown Event                                      1040918_bengal_index.utf8
+
+Unknown Event                                      1040918_bengal_story_3773127.utf8
+
+Unknown Event                                      1040918_bengal_story_3773128.utf8
+
+Unknown Event                                      1040918_bengal_story_3773130.utf8
+
+Unknown Event                                      1040918_bengal_story_3773132.utf8
+
+Unknown Event                                      1040918_bengal_story_3773133.utf8
+
+Unknown Event                                      1040918_bengal_story_3773134.utf8
+
+Unknown Event                                      1040919_bengal_index.utf8
+
+Unknown Event                                      1040919_bengal_story_3771066.utf8
+
+Unknown Event                                      1040919_bengal_story_3774487.utf8
+
+Unknown Event                                      1040919_bengal_story_3774613.utf8
+
+Unknown Event                                      1040919_bengal_story_3774678.utf8
+
+Unknown Event                                      1040919_bengal_story_3774865.utf8
+
+Unknown Event                                      1040919_bengal_story_3775192.utf8
+
+Unknown Event                                      1040919_bengal_story_3775345.utf8
+
+Unknown Event                                      1040919_bengal_story_3776560.utf8
+
+Unknown Event                                      1040919_bengal_story_3776561.utf8
+
+Unknown Event                                      1040919_bengal_story_3776562.utf8
+
+Unknown Event                                      1040919_bengal_story_3776563.utf8
+
+Unknown Event                                      1040919_bengal_story_3776564.utf8
+
+Unknown Event                                      1040919_bengal_story_3776565.utf8
+
+Unknown Event                                      1040919_bengal_story_3776566.utf8
+
+Unknown Event                                      1040919_bengal_story_3776567.utf8
+
+Unknown Event                                      1040919_bengal_story_3777205.utf8
+
+Unknown Event                                      1040920_bengal_index.utf8
+
+Unknown Event                                      1040920_bengal_story_3779564.utf8
+
+Unknown Event                                      1040920_bengal_story_3779565.utf8
+
+Unknown Event                                      1040920_bengal_story_3779566.utf8
+
+Unknown Event                                      1040920_bengal_story_3779567.utf8
+
+Unknown Event                                      1040920_bengal_story_3779568.utf8
+
+Unknown Event                                      1040920_bengal_story_3779570.utf8
+
+Unknown Event                                      1040921_bengal_index.utf8
+
+Unknown Event                                      1040921_bengal_story_3783916.utf8
+
+Unknown Event                                      1040921_bengal_story_3783917.utf8
+
+Unknown Event                                      1040921_bengal_story_3783918.utf8
+
+Unknown Event                                      1040921_bengal_story_3783919.utf8
+
+Unknown Event                                      1040921_bengal_story_3783920.utf8
+
+Bombing/Explosion                                  1040921_bengal_story_3783922.utf8
+
+Unknown Event                                      1040921_bengal_story_3783923.utf8
+
+Unknown Event                                      1040921_bengal_story_3783924.utf8
+
+Unknown Event                                      1040922_bengal_index.utf8
+
+Unknown Event                                      1040922_bengal_story_3788155.utf8
+
+Unknown Event                                      1040922_bengal_story_3788156.utf8
+
+Unknown Event                                      1040922_bengal_story_3788157.utf8
+
+Unknown Event                                      1040922_bengal_story_3788158.utf8
+
+Unknown Event                                      1040922_bengal_story_3788159.utf8
+
+Unknown Event                                      1040922_bengal_story_3788160.utf8
+
+Unknown Event                                      1040922_bengal_story_3788638.utf8
+
+Unknown Event                                      1040923_bengal_index.utf8
+
+Unknown Event                                      1040923_bengal_story_3793197.utf8
+
+Bombing/Explosion                                  1040923_bengal_story_3793198.utf8
+
+Unknown Event                                      1040923_bengal_story_3793202.utf8
+
+Unknown Event                                      1040923_bengal_story_3793203.utf8
+
+Unknown Event                                      1040923_bengal_story_3793204.utf8
+
+Unknown Event                                      1040923_bengal_story_3793205.utf8
+
+Unknown Event                                      1040923_bengal_story_3793206.utf8
+
+Unknown Event                                      1040923_bengal_story_3793207.utf8
+
+Unknown Event                                      1040923_bengal_story_3793799.utf8
+
+Unknown Event                                      1040924_bengal_index.utf8
+
+Unknown Event                                      1040924_bengal_story_3797457.utf8
+
+Unknown Event                                      1040924_bengal_story_3797460.utf8
+
+Unknown Event                                      1040924_bengal_story_3797461.utf8
+
+Unknown Event                                      1040924_bengal_story_3797462.utf8
+
+Unknown Event                                      1040924_bengal_story_3797463.utf8
+
+Unknown Event                                      1040924_bengal_story_3797685.utf8
+
+Unknown Event                                      1040925_bengal_index.utf8
+
+Unknown Event                                      1040925_bengal_story_3801697.utf8
+
+Unknown Event                                      1040925_bengal_story_3801698.utf8
+
+Unknown Event                                      1040925_bengal_story_3801699.utf8
+
+Unknown Event                                      1040925_bengal_story_3801700.utf8
+
+Unknown Event                                      1040925_bengal_story_3801728.utf8
+
+Unknown Event                                      1040926_bengal_index.utf8
+
+Unknown Event                                      1040926_bengal_story_3805209.utf8
+
+Unknown Event                                      1040926_bengal_story_3805210.utf8
+
+Unknown Event                                      1040926_bengal_story_3805212.utf8
+
+Unknown Event                                      1040926_bengal_story_3805213.utf8
+
+Unknown Event                                      1040926_bengal_story_3805214.utf8
+
+Unknown Event                                      1040926_bengal_story_3805317.utf8
+
+Unknown Event                                      1040926_bengal_story_3805318.utf8
+
+Unknown Event                                      1040926_bengal_story_3805319.utf8
+
+Unknown Event                                      1040926_bengal_story_3805320.utf8
+
+Unknown Event                                      1040926_bengal_story_3805321.utf8
+
+Unknown Event                                      1040926_bengal_story_3805322.utf8
+
+Unknown Event                                      1040927_bengal_index.utf8
+
+Unknown Event                                      1040927_bengal_story_3808850.utf8
+
+Unknown Event                                      1040927_bengal_story_3808851.utf8
+
+Unknown Event                                      1040927_bengal_story_3808852.utf8
+
+Unknown Event                                      1040927_bengal_story_3808853.utf8
+
+Unknown Event                                      1040927_bengal_story_3808854.utf8
+
+Unknown Event                                      1040927_bengal_story_3808907.utf8
+
+Unknown Event                                      1040928_bengal_index.utf8
+
+Unknown Event                                      1040928_bengal_story_3813331.utf8
+
+Unknown Event                                      1040928_bengal_story_3813332.utf8
+
+Unknown Event                                      1040928_bengal_story_3813333.utf8
+
+Unknown Event                                      1040928_bengal_story_3813334.utf8
+
+Unknown Event                                      1040928_bengal_story_3813337.utf8
+
+Unknown Event                                      1040928_bengal_story_3813364.utf8
+
+Unknown Event                                      1040929_bengal_index.utf8
+
+Unknown Event                                      1040929_bengal_story_3817829.utf8
+
+Unknown Event                                      1040929_bengal_story_3817830.utf8
+
+Unknown Event                                      1040929_bengal_story_3817831.utf8
+
+Unknown Event                                      1040929_bengal_story_3817832.utf8
+
+Unknown Event                                      1040929_bengal_story_3817910.utf8
+
+Unknown Event                                      1040930_bengal_index.utf8
+
+Unknown Event                                      1040930_bengal_story_3820691.utf8
+
+Unknown Event                                      1040930_bengal_story_3822033.utf8
+
+Unknown Event                                      1040930_bengal_story_3822034.utf8
+
+Unknown Event                                      1040930_bengal_story_3822035.utf8
+
+Unknown Event                                      1040930_bengal_story_3822036.utf8
+
+Unknown Event                                      1040930_bengal_story_3822037.utf8
+
+Unknown Event                                      1040930_bengal_story_3822038.utf8
+
+Unknown Event                                      1040930_bengal_story_3823349.utf8
+
+Unknown Event                                      1041001_bengal_index.utf8
+
+Unknown Event                                      1041001_bengal_story_3827228.utf8
+
+Unknown Event                                      1041001_bengal_story_3827229.utf8
+
+Unknown Event                                      1041001_bengal_story_3827230.utf8
+
+Unknown Event                                      1041001_bengal_story_3827231.utf8
+
+Unknown Event                                      1041001_bengal_story_3827232.utf8
+
+Unknown Event                                      1041001_bengal_story_3827233.utf8
+
+Unknown Event                                      1041001_bengal_story_3827234.utf8
+
+Unknown Event                                      1041002_bengal_index.utf8
+
+Unknown Event                                      1041002_bengal_story_3831784.utf8
+
+Unknown Event                                      1041002_bengal_story_3831785.utf8
+
+Unknown Event                                      1041002_bengal_story_3831786.utf8
+
+Unknown Event                                      1041002_bengal_story_3831787.utf8
+
+Unknown Event                                      1041002_bengal_story_3831788.utf8
+
+Unknown Event                                      1041003_bengal_index.utf8
+
+Unknown Event                                      1041003_bengal_story_3835179.utf8
+
+Unknown Event                                      1041003_bengal_story_3835181.utf8
+
+Unknown Event                                      1041003_bengal_story_3835182.utf8
+
+Unknown Event                                      1041003_bengal_story_3835183.utf8
+
+Unknown Event                                      1041003_bengal_story_3835184.utf8
+
+Unknown Event                                      1041003_bengal_story_3835185.utf8
+
+Unknown Event                                      1041003_bengal_story_3835262.utf8
+
+Unknown Event                                      1041003_bengal_story_3835263.utf8
+
+Unknown Event                                      1041003_bengal_story_3835264.utf8
+
+Unknown Event                                      1041003_bengal_story_3835265.utf8
+
+Armed Assault                                      1041003_bengal_story_3835266.utf8
+
+Unknown Event                                      1041003_bengal_story_3835267.utf8
+
+Unknown Event                                      1041003_bengal_story_3835268.utf8
+
+Unknown Event                                      1041003_bengal_story_3835847.utf8
+
+Unknown Event                                      1041004_bengal_index.utf8
+
+Unknown Event                                      1041004_bengal_story_3838517.utf8
+
+Unknown Event                                      1041004_bengal_story_3838518.utf8
+
+Unknown Event                                      1041004_bengal_story_3838519.utf8
+
+Unknown Event                                      1041004_bengal_story_3838520.utf8
+
+Unknown Event                                      1041004_bengal_story_3838521.utf8
+
+Unknown Event                                      1041004_bengal_story_3838522.utf8
+
+Unknown Event                                      1041004_bengal_story_3838523.utf8
+
+Bombing/Explosion                                  1041005_bengal_index.utf8
+
+Unknown Event                                      1041005_bengal_story_3843012.utf8
+
+Bombing/Explosion                                  1041005_bengal_story_3843013.utf8
+
+Unknown Event                                      1041005_bengal_story_3843014.utf8
+
+Unknown Event                                      1041005_bengal_story_3843015.utf8
+
+Unknown Event                                      1041005_bengal_story_3843016.utf8
+
+Unknown Event                                      1041005_bengal_story_3843017.utf8
+
+Unknown Event                                      1041006_bengal_index.utf8
+
+Unknown Event                                      1041006_bengal_story_3847614.utf8
+
+Unknown Event                                      1041006_bengal_story_3847615.utf8
+
+Unknown Event                                      1041006_bengal_story_3847616.utf8
+
+Unknown Event                                      1041006_bengal_story_3847617.utf8
+
+Unknown Event                                      1041006_bengal_story_3847618.utf8
+
+Unknown Event                                      1041006_bengal_story_3847619.utf8
+
+Unknown Event                                      1041006_bengal_story_3847709.utf8
+
+Unknown Event                                      1041007_bengal_index.utf8
+
+Unknown Event                                      1041007_bengal_story_3851622.utf8
+
+Unknown Event                                      1041007_bengal_story_3851694.utf8
+
+Unknown Event                                      1041007_bengal_story_3851696.utf8
+
+Unknown Event                                      1041007_bengal_story_3851699.utf8
+
+Unknown Event                                      1041007_bengal_story_3851700.utf8
+
+Bombing/Explosion                                  1041007_bengal_story_3851701.utf8
+
+Unknown Event                                      1041007_bengal_story_3852237.utf8
+
+Unknown Event                                      1041008_bengal_index.utf8
+
+Unknown Event                                      1041008_bengal_story_3857018.utf8
+
+Unknown Event                                      1041008_bengal_story_3857020.utf8
+
+Unknown Event                                      1041008_bengal_story_3857021.utf8
+
+Unknown Event                                      1041008_bengal_story_3857022.utf8
+
+Unknown Event                                      1041009_bengal_index.utf8
+
+Unknown Event                                      1041009_bengal_story_3860757.utf8
+
+Unknown Event                                      1041009_bengal_story_3860758.utf8
+
+Unknown Event                                      1041010_bengal_index.utf8
+
+Unknown Event                                      1041010_bengal_story_3862360.utf8
+
+Unknown Event                                      1041010_bengal_story_3862737.utf8
+
+Unknown Event                                      1041010_bengal_story_3862783.utf8
+
+Unknown Event                                      1041010_bengal_story_3862837.utf8
+
+Unknown Event                                      1041010_bengal_story_3862991.utf8
+
+Unknown Event                                      1041010_bengal_story_3863260.utf8
+
+Unknown Event                                      1041010_bengal_story_3863642.utf8
+
+Unknown Event                                      1041010_bengal_story_3864208.utf8
+
+Unknown Event                                      1041010_bengal_story_3864209.utf8
+
+Unknown Event                                      1041010_bengal_story_3864210.utf8
+
+Unknown Event                                      1041010_bengal_story_3864211.utf8
+
+Unknown Event                                      1041011_bengal_index.utf8
+
+Unknown Event                                      1041011_bengal_story_3867929.utf8
+
+Unknown Event                                      1041011_bengal_story_3867930.utf8
+
+Unknown Event                                      1041011_bengal_story_3867931.utf8
+
+Unknown Event                                      1041011_bengal_story_3867932.utf8
+
+Unknown Event                                      1041011_bengal_story_3867934.utf8
+
+Unknown Event                                      1041011_bengal_story_3868133.utf8
+
+Unknown Event                                      1041012_bengal_index.utf8
+
+Unknown Event                                      1041012_bengal_story_3872462.utf8
+
+Unknown Event                                      1041012_bengal_story_3872463.utf8
+
+Unknown Event                                      1041012_bengal_story_3872464.utf8
+
+Unknown Event                                      1041012_bengal_story_3872465.utf8
+
+Unknown Event                                      1041013_bengal_index.utf8
+
+Unknown Event                                      1041013_bengal_story_3876370.utf8
+
+Unknown Event                                      1041013_bengal_story_3876371.utf8
+
+Unknown Event                                      1041013_bengal_story_3876372.utf8
+
+Unknown Event                                      1041013_bengal_story_3876767.utf8
+
+Unknown Event                                      1041014_bengal_index.utf8
+
+Unknown Event                                      1041014_bengal_story_3880716.utf8
+
+Unknown Event                                      1041014_bengal_story_3880717.utf8
+
+Unknown Event                                      1041014_bengal_story_3880718.utf8
+
+Unknown Event                                      1041014_bengal_story_3880719.utf8
+
+Unknown Event                                      1041014_bengal_story_3880720.utf8
+
+Unknown Event                                      1041014_bengal_story_3880721.utf8
+
+Unknown Event                                      1041014_bengal_story_3881318.utf8
+
+Unknown Event                                      1041015_bengal_index.utf8
+
+Unknown Event                                      1041015_bengal_story_3885658.utf8
+
+Unknown Event                                      1041015_bengal_story_3885659.utf8
+
+Unknown Event                                      1041015_bengal_story_3885661.utf8
+
+Unknown Event                                      1041015_bengal_story_3885746.utf8
+
+Unknown Event                                      1041015_bengal_story_3886047.utf8
+
+Unknown Event                                      1041016_bengal_index.utf8
+
+Unknown Event                                      1041016_bengal_story_3889765.utf8
+
+Unknown Event                                      1041016_bengal_story_3889766.utf8
+
+Unknown Event                                      1041016_bengal_story_3889767.utf8
+
+Unknown Event                                      1041017_bengal_index.utf8
+
+Unknown Event                                      1041017_bengal_story_3893485.utf8
+
+Unknown Event                                      1041017_bengal_story_3893486.utf8
+
+Unknown Event                                      1041017_bengal_story_3893488.utf8
+
+Unknown Event                                      1041017_bengal_story_3893489.utf8
+
+Unknown Event                                      1041017_bengal_story_3893490.utf8
+
+Unknown Event                                      1041018_bengal_index.utf8
+
+Unknown Event                                      1041018_bengal_story_3896646.utf8
+
+Armed Assault                                      1041018_bengal_story_3896647.utf8
+
+Unknown Event                                      1041018_bengal_story_3896648.utf8
+
+Unknown Event                                      1041018_bengal_story_3896649.utf8
+
+Unknown Event                                      1041018_bengal_story_3896650.utf8
+
+Unknown Event                                      1041019_bengal_index.utf8
+
+Unknown Event                                      1041019_bengal_story_3900607.utf8
+
+Unknown Event                                      1041019_bengal_story_3900608.utf8
+
+Unknown Event                                      1041019_bengal_story_3900609.utf8
+
+Unknown Event                                      1041019_bengal_story_3900610.utf8
+
+Unknown Event                                      1041019_bengal_story_3900611.utf8
+
+Unknown Event                                      1041020_bengal_index.utf8
+
+Unknown Event                                      1041020_bengal_story_3904993.utf8
+
+Unknown Event                                      1041021_bengal_index.utf8
+
+Unknown Event                                      1041021_bengal_story_3909448.utf8
+
+Unknown Event                                      1041021_bengal_story_3909449.utf8
+
+Unknown Event                                      1041021_bengal_story_3909450.utf8
+
+Unknown Event                                      1041021_bengal_story_3909451.utf8
+
+Armed Assault                                      1041021_bengal_story_3909688.utf8
+
+Unknown Event                                      1041022_bengal_index.utf8
+
+Hostage                                            1041022_bengal_story_3913501.utf8
+
+Unknown Event                                      1041022_bengal_story_3913502.utf8
+
+Unknown Event                                      1041022_bengal_story_3913503.utf8
+
+Unknown Event                                      1041022_bengal_story_3913504.utf8
+
+Unknown Event                                      1041022_bengal_story_3913505.utf8
+
+Unknown Event                                      1041022_bengal_story_3913506.utf8
+
+Unknown Event                                      1041022_bengal_story_3913655.utf8
+
+Unknown Event                                      1041023_bengal_index.utf8
+
+Unknown Event                                      1041023_bengal_story_3917109.utf8
+
+Unknown Event                                      1041023_bengal_story_3917110.utf8
+
+Unknown Event                                      1041023_bengal_story_3917111.utf8
+
+Unknown Event                                      1041023_bengal_story_3917112.utf8
+
+Unknown Event                                      1041025_bengal_index.utf8
+
+Unknown Event                                      1041025_bengal_story_3921668.utf8
+
+Unknown Event                                      1041025_bengal_story_3921669.utf8
+
+Unknown Event                                      1041025_bengal_story_3921670.utf8
+
+Facility/Infrastructure Attack                     1041025_bengal_story_3921671.utf8
+
+Unknown Event                                      1041025_bengal_story_3921673.utf8
+
+Unknown Event                                      1041025_bengal_story_3921894.utf8
+
+Unknown Event                                      1041026_bengal_index.utf8
+
+Unknown Event                                      1041026_bengal_story_3925843.utf8
+
+Unknown Event                                      1041026_bengal_story_3925844.utf8
+
+Unknown Event                                      1041026_bengal_story_3925845.utf8
+
+Unknown Event                                      1041026_bengal_story_3925846.utf8
+
+Unknown Event                                      1041026_bengal_story_3925847.utf8
+
+Facility/Infrastructure Attack                     1041026_bengal_story_3926030.utf8
+
+Unknown Event                                      1041027_bengal_index.utf8
+
+Unknown Event                                      1041027_bengal_story_3930540.utf8
+
+Unknown Event                                      1041027_bengal_story_3930541.utf8
+
+Unknown Event                                      1041027_bengal_story_3930542.utf8
+
+Unknown Event                                      1041027_bengal_story_3930543.utf8
+
+Unknown Event                                      1041027_bengal_story_3930545.utf8
+
+Unknown Event                                      1041027_bengal_story_3930546.utf8
+
+Unknown Event                                      1041028_bengal_index.utf8
+
+Unknown Event                                      1041028_bengal_story_3934779.utf8
+
+Unknown Event                                      1041028_bengal_story_3934780.utf8
+
+Unknown Event                                      1041028_bengal_story_3934781.utf8
+
+Unknown Event                                      1041028_bengal_story_3934782.utf8
+
+Unknown Event                                      1041028_bengal_story_3934783.utf8
+
+Armed Assault                                      1041028_bengal_story_3934784.utf8
+
+Assassination                                      1041028_bengal_story_3935070.utf8
+
+Unknown Event                                      1041029_bengal_index.utf8
+
+Unknown Event                                      1041029_bengal_story_3939224.utf8
+
+Unknown Event                                      1041029_bengal_story_3939225.utf8
+
+Unknown Event                                      1041029_bengal_story_3939226.utf8
+
+Unknown Event                                      1041029_bengal_story_3939227.utf8
+
+Unknown Event                                      1041029_bengal_story_3939293.utf8
+
+Unknown Event                                      1041030_bengal_index.utf8
+
+Unknown Event                                      1041030_bengal_story_3943447.utf8
+
+Unknown Event                                      1041030_bengal_story_3943683.utf8
+
+Unknown Event                                      1041030_bengal_story_3943684.utf8
+
+Unknown Event                                      1041030_bengal_story_3943686.utf8
+
+Unknown Event                                      1041030_bengal_story_3943899.utf8
+
+Unknown Event                                      1041031_bengal_index.utf8
+
+Unknown Event                                      1041031_bengal_story_3947375.utf8
+
+Unknown Event                                      1041031_bengal_story_3947377.utf8
+
+Unknown Event                                      1041031_bengal_story_3947378.utf8
+
+Unknown Event                                      1041031_bengal_story_3947379.utf8
+
+Unknown Event                                      1041031_bengal_story_3947454.utf8
+
+Unknown Event                                      1041031_bengal_story_3947456.utf8
+
+Unknown Event                                      1041031_bengal_story_3947457.utf8
+
+Unknown Event                                      1041031_bengal_story_3947458.utf8
+
+Unknown Event                                      1041101_bengal_index.utf8
+
+Unknown Event                                      1041101_bengal_story_3950834.utf8
+
+Unknown Event                                      1041101_bengal_story_3950835.utf8
+
+Unknown Event                                      1041101_bengal_story_3950836.utf8
+
+Unknown Event                                      1041101_bengal_story_3950837.utf8
+
+Unknown Event                                      1041101_bengal_story_3950838.utf8
+
+Unknown Event                                      1041101_bengal_story_3950839.utf8
+
+Unknown Event                                      1041102_bengal_index.utf8
+
+Unknown Event                                      1041102_bengal_story_3955214.utf8
+
+Unknown Event                                      1041102_bengal_story_3955215.utf8
+
+Unknown Event                                      1041102_bengal_story_3955216.utf8
+
+Unknown Event                                      1041102_bengal_story_3955217.utf8
+
+Unknown Event                                      1041102_bengal_story_3955218.utf8
+
+Unknown Event                                      1041102_bengal_story_3955219.utf8
+
+Unknown Event                                      1041102_bengal_story_3955950.utf8
+
+Unknown Event                                      1041103_bengal_index.utf8
+
+Unknown Event                                      1041103_bengal_story_3959282.utf8
+
+Unknown Event                                      1041103_bengal_story_3959283.utf8
+
+Unknown Event                                      1041103_bengal_story_3959284.utf8
+
+Unknown Event                                      1041103_bengal_story_3959285.utf8
+
+Unknown Event                                      1041103_bengal_story_3959286.utf8
+
+Unknown Event                                      1041103_bengal_story_3960095.utf8
+
+Unknown Event                                      1041104_bengal_index.utf8
+
+Unknown Event                                      1041104_bengal_story_3963590.utf8
+
+Unknown Event                                      1041104_bengal_story_3963591.utf8
+
+Unknown Event                                      1041104_bengal_story_3963592.utf8
+
+Unknown Event                                      1041104_bengal_story_3963698.utf8
+
+Unknown Event                                      1041105_bengal_index.utf8
+
+Unknown Event                                      1041106_bengal_index.utf8
+
+Unknown Event                                      1041106_bengal_story_3972182.utf8
+
+Unknown Event                                      1041106_bengal_story_3972184.utf8
+
+Unknown Event                                      1041106_bengal_story_3972185.utf8
+
+Unknown Event                                      1041106_bengal_story_3972186.utf8
+
+Unknown Event                                      1041106_bengal_story_3972187.utf8
+
+Unknown Event                                      1041106_bengal_story_3972188.utf8
+
+Unknown Event                                      1041106_bengal_story_3972324.utf8
+
+Unknown Event                                      1041107_bengal_index.utf8
+
+Unknown Event                                      1041107_bengal_story_3975609.utf8
+
+Unknown Event                                      1041107_bengal_story_3975655.utf8
+
+Unknown Event                                      1041107_bengal_story_3975656.utf8
+
+Unknown Event                                      1041107_bengal_story_3975657.utf8
+
+Unknown Event                                      1041107_bengal_story_3975658.utf8
+
+Unknown Event                                      1041107_bengal_story_3975659.utf8
+
+Unknown Event                                      1041107_bengal_story_3975660.utf8
+
+Unknown Event                                      1041107_bengal_story_3975670.utf8
+
+Unknown Event                                      1041107_bengal_story_3975743.utf8
+
+Unknown Event                                      1041107_bengal_story_3975744.utf8
+
+Unknown Event                                      1041107_bengal_story_3975745.utf8
+
+Unknown Event                                      1041107_bengal_story_3975746.utf8
+
+Unknown Event                                      1041107_bengal_story_3975747.utf8
+
+Unknown Event                                      1041108_bengal_index.utf8
+
+Unknown Event                                      1041108_bengal_story_3978851.utf8
+
+Unknown Event                                      1041108_bengal_story_3978852.utf8
+
+Unknown Event                                      1041108_bengal_story_3978853.utf8
+
+Unknown Event                                      1041108_bengal_story_3978855.utf8
+
+Unknown Event                                      1041108_bengal_story_3978856.utf8
+
+Unknown Event                                      1041108_bengal_story_3978858.utf8
+
+Unknown Event                                      1041108_bengal_story_3979155.utf8
+
+Unknown Event                                      1041109_bengal_index.utf8
+
+Unknown Event                                      1041109_bengal_story_3982433.utf8
+
+Unknown Event                                      1041109_bengal_story_3982434.utf8
+
+Unknown Event                                      1041109_bengal_story_3982435.utf8
+
+Unknown Event                                      1041110_bengal_index.utf8
+
+Unknown Event                                      1041110_bengal_story_3986572.utf8
+
+Unknown Event                                      1041110_bengal_story_3987059.utf8
+
+Unknown Event                                      1041110_bengal_story_3987061.utf8
+
+Unknown Event                                      1041110_bengal_story_3987062.utf8
+
+Unknown Event                                      1041111_bengal_index.utf8
+
+Unknown Event                                      1041111_bengal_story_3991483.utf8
+
+Unknown Event                                      1041111_bengal_story_3991484.utf8
+
+Unknown Event                                      1041111_bengal_story_3991485.utf8
+
+Unknown Event                                      1041111_bengal_story_3991487.utf8
+
+Unknown Event                                      1041111_bengal_story_3991541.utf8
+
+Unknown Event                                      1041112_bengal_index.utf8
+
+Unknown Event                                      1041112_bengal_story_3995575.utf8
+
+Unknown Event                                      1041112_bengal_story_3995576.utf8
+
+Unknown Event                                      1041112_bengal_story_3995577.utf8
+
+Unknown Event                                      1041112_bengal_story_3995579.utf8
+
+Unknown Event                                      1041113_bengal_index.utf8
+
+Unknown Event                                      1041113_bengal_story_3999164.utf8
+
+Unknown Event                                      1041113_bengal_story_3999165.utf8
+
+Unknown Event                                      1041113_bengal_story_3999167.utf8
+
+Unknown Event                                      1041114_bengal_index.utf8
+
+Unknown Event                                      1041114_bengal_story_4002338.utf8
+
+Unknown Event                                      1041114_bengal_story_4002339.utf8
+
+Unknown Event                                      1041114_bengal_story_4002340.utf8
+
+Unknown Event                                      1041114_bengal_story_4002341.utf8
+
+Unknown Event                                      1041114_bengal_story_4002342.utf8
+
+Unknown Event                                      1041114_bengal_story_4003011.utf8
+
+Unknown Event                                      1041115_bengal_index.utf8
+
+Facility/Infrastructure Attack                     1041115_bengal_story_4005457.utf8
+
+Unknown Event                                      1041115_bengal_story_4005459.utf8
+
+Unknown Event                                      1041115_bengal_story_4005460.utf8
+
+Unknown Event                                      1041115_bengal_story_4005553.utf8
+
+Unknown Event                                      1041116_bengal_index.utf8
+
+Unknown Event                                      1041116_bengal_story_4009576.utf8
+
+Unknown Event                                      1041116_bengal_story_4009577.utf8
+
+Unknown Event                                      1041116_bengal_story_4009579.utf8
+
+Unknown Event                                      1041116_bengal_story_4009580.utf8
+
+Unknown Event                                      1041116_bengal_story_4009581.utf8
+
+Unknown Event                                      1041116_bengal_story_4009582.utf8
+
+Unknown Event                                      1041116_bengal_story_4009583.utf8
+
+Unknown Event                                      1041116_bengal_story_4009584.utf8
+
+Unknown Event                                      1041116_bengal_story_4009634.utf8
+
+Unknown Event                                      1041117_bengal_index.utf8
+
+Unknown Event                                      1041117_bengal_story_4013923.utf8
+
+Unknown Event                                      1041117_bengal_story_4013969.utf8
+
+Unknown Event                                      1041117_bengal_story_4013970.utf8
+
+Unknown Event                                      1041117_bengal_story_4013971.utf8
+
+Unknown Event                                      1041117_bengal_story_4013972.utf8
+
+Unknown Event                                      1041117_bengal_story_4013973.utf8
+
+Unknown Event                                      1041118_bengal_index.utf8
+
+Unknown Event                                      1041118_bengal_story_4016513.utf8
+
+Unknown Event                                      1041118_bengal_story_4018002.utf8
+
+Unknown Event                                      1041118_bengal_story_4018003.utf8
+
+Unknown Event                                      1041118_bengal_story_4018005.utf8
+
+Unknown Event                                      1041118_bengal_story_4018006.utf8
+
+Unknown Event                                      1041118_bengal_story_4018007.utf8
+
+Unknown Event                                      1041118_bengal_story_4018492.utf8
+
+Unknown Event                                      1041119_bengal_index.utf8
+
+Unknown Event                                      1041119_bengal_story_4023158.utf8
+
+Unknown Event                                      1041119_bengal_story_4023159.utf8
+
+Unknown Event                                      1041119_bengal_story_4023160.utf8
+
+Unknown Event                                      1041119_bengal_story_4023161.utf8
+
+Unknown Event                                      1041119_bengal_story_4023162.utf8
+
+Unknown Event                                      1041119_bengal_story_4023163.utf8
+
+Unknown Event                                      1041120_bengal_index.utf8
+
+Unknown Event                                      1041120_bengal_story_4026621.utf8
+
+Unknown Event                                      1041120_bengal_story_4026916.utf8
+
+Unknown Event                                      1041120_bengal_story_4026917.utf8
+
+Unknown Event                                      1041120_bengal_story_4026918.utf8
+
+Unknown Event                                      1041121_bengal_index.utf8
+
+Unknown Event                                      1041121_bengal_story_4030171.utf8
+
+Unknown Event                                      1041121_bengal_story_4030173.utf8
+
+Unknown Event                                      1041121_bengal_story_4030174.utf8
+
+Unknown Event                                      1041121_bengal_story_4030175.utf8
+
+Unknown Event                                      1041121_bengal_story_4030176.utf8
+
+Unknown Event                                      1041121_bengal_story_4030177.utf8
+
+Unknown Event                                      1041121_bengal_story_4030178.utf8
+
+Unknown Event                                      1041121_bengal_story_4030503.utf8
+
+Unknown Event                                      1041121_bengal_story_4030504.utf8
+
+Unknown Event                                      1041121_bengal_story_4030505.utf8
+
+Unknown Event                                      1041121_bengal_story_4030506.utf8
+
+Unknown Event                                      1041121_bengal_story_4030507.utf8
+
+Unknown Event                                      1041121_bengal_story_4030508.utf8
+
+Unknown Event                                      1041121_bengal_story_4030509.utf8
+
+Unknown Event                                      1041122_bengal_index.utf8
+
+Unknown Event                                      1041122_bengal_story_4034210.utf8
+
+Unknown Event                                      1041122_bengal_story_4034211.utf8
+
+Unknown Event                                      1041122_bengal_story_4034212.utf8
+
+Unknown Event                                      1041122_bengal_story_4034213.utf8
+
+Unknown Event                                      1041122_bengal_story_4034214.utf8
+
+Unknown Event                                      1041122_bengal_story_4034215.utf8
+
+Unknown Event                                      1041122_bengal_story_4034216.utf8
+
+Unknown Event                                      1041122_bengal_story_4034217.utf8
+
+Unknown Event                                      1041122_bengal_story_4034272.utf8
+
+Unknown Event                                      1041123_bengal_index.utf8
+
+Unknown Event                                      1041123_bengal_story_4038371.utf8
+
+Unknown Event                                      1041123_bengal_story_4038373.utf8
+
+Unknown Event                                      1041123_bengal_story_4038376.utf8
+
+Unknown Event                                      1041123_bengal_story_4038382.utf8
+
+Unknown Event                                      1041123_bengal_story_4038466.utf8
+
+Unknown Event                                      1041124_bengal_index.utf8
+
+Bombing/Explosion                                  1041124_bengal_story_4042761.utf8
+
+Unknown Event                                      1041124_bengal_story_4042762.utf8
+
+Unknown Event                                      1041124_bengal_story_4042764.utf8
+
+Unknown Event                                      1041124_bengal_story_4042766.utf8
+
+Unknown Event                                      1041124_bengal_story_4042767.utf8
+
+Unknown Event                                      1041124_bengal_story_4042768.utf8
+
+Unknown Event                                      1041124_bengal_story_4042769.utf8
+
+Unknown Event                                      1041124_bengal_story_4042770.utf8
+
+Unknown Event                                      1041124_bengal_story_4042771.utf8
+
+Unknown Event                                      1041125_bengal_index.utf8
+
+Unknown Event                                      1041125_bengal_story_4047429.utf8
+
+Unknown Event                                      1041125_bengal_story_4047430.utf8
+
+Unknown Event                                      1041125_bengal_story_4047432.utf8
+
+Unknown Event                                      1041125_bengal_story_4047433.utf8
+
+Unknown Event                                      1041125_bengal_story_4047434.utf8
+
+Unknown Event                                      1041125_bengal_story_4047435.utf8
+
+Unknown Event                                      1041125_bengal_story_4047436.utf8
+
+Unknown Event                                      1041125_bengal_story_4047437.utf8
+
+Unknown Event                                      1041126_bengal_index.utf8
+
+Unknown Event                                      1041126_bengal_story_4048862.utf8
+
+Unknown Event                                      1041126_bengal_story_4049289.utf8
+
+Unknown Event                                      1041126_bengal_story_4049835.utf8
+
+Unknown Event                                      1041126_bengal_story_4049868.utf8
+
+Unknown Event                                      1041126_bengal_story_4049917.utf8
+
+Unknown Event                                      1041126_bengal_story_4052119.utf8
+
+Unknown Event                                      1041127_bengal_index.utf8
+
+Unknown Event                                      1041127_bengal_story_4056054.utf8
+
+Unknown Event                                      1041127_bengal_story_4056123.utf8
+
+Unknown Event                                      1041127_bengal_story_4056124.utf8
+
+Unknown Event                                      1041127_bengal_story_4056125.utf8
+
+Unknown Event                                      1041127_bengal_story_4056126.utf8
+
+Unknown Event                                      1041127_bengal_story_4056128.utf8
+
+Unknown Event                                      1041128_bengal_index.utf8
+
+Unknown Event                                      1041128_bengal_story_4059305.utf8
+
+Unknown Event                                      1041128_bengal_story_4059307.utf8
+
+Unknown Event                                      1041128_bengal_story_4059308.utf8
+
+Unknown Event                                      1041128_bengal_story_4059309.utf8
+
+Unknown Event                                      1041128_bengal_story_4059310.utf8
+
+Unknown Event                                      1041128_bengal_story_4060080.utf8
+
+Unknown Event                                      1041129_bengal_index.utf8
+
+Unknown Event                                      1041129_bengal_story_4062387.utf8
+
+Unknown Event                                      1041129_bengal_story_4062388.utf8
+
+Unknown Event                                      1041129_bengal_story_4062389.utf8
+
+Unknown Event                                      1041129_bengal_story_4062390.utf8
+
+Unknown Event                                      1041129_bengal_story_4062391.utf8
+
+Unknown Event                                      1041129_bengal_story_4062393.utf8
+
+Unknown Event                                      1041130_bengal_index.utf8
+
+Unknown Event                                      1041130_bengal_story_4066938.utf8
+
+Unknown Event                                      1041130_bengal_story_4066940.utf8
+
+Unknown Event                                      1041130_bengal_story_4066941.utf8
+
+Unknown Event                                      1041130_bengal_story_4066942.utf8
+
+Unknown Event                                      1041130_bengal_story_4066943.utf8
+
+Unknown Event                                      1041130_bengal_story_4066944.utf8
+
+Unknown Event                                      1041130_bengal_story_4067167.utf8
+
+Unknown Event                                      1041201_bengal_index.utf8
+
+Unknown Event                                      1041201_bengal_story_4071699.utf8
+
+Assassination                                      1041201_bengal_story_4071700.utf8
+
+Unarmed Assault                                    1041201_bengal_story_4071702.utf8
+
+Unknown Event                                      1041201_bengal_story_4071703.utf8
+
+Unknown Event                                      1041201_bengal_story_4071704.utf8
+
+Unknown Event                                      1041201_bengal_story_4071705.utf8
+
+Unknown Event                                      1041201_bengal_story_4071706.utf8
+
+Unknown Event                                      1041202_bengal_index.utf8
+
+Unknown Event                                      1041202_bengal_story_4076330.utf8
+
+Unknown Event                                      1041202_bengal_story_4076331.utf8
+
+Unknown Event                                      1041202_bengal_story_4076332.utf8
+
+Unknown Event                                      1041202_bengal_story_4076333.utf8
+
+Unknown Event                                      1041202_bengal_story_4076334.utf8
+
+Unknown Event                                      1041202_bengal_story_4076335.utf8
+
+Unknown Event                                      1041202_bengal_story_4076336.utf8
+
+Unknown Event                                      1041203_bengal_index.utf8
+
+Unknown Event                                      1041203_bengal_story_4079974.utf8
+
+Unknown Event                                      1041203_bengal_story_4080350.utf8
+
+Unknown Event                                      1041203_bengal_story_4080351.utf8
+
+Unknown Event                                      1041203_bengal_story_4080353.utf8
+
+Unknown Event                                      1041203_bengal_story_4080354.utf8
+
+Unknown Event                                      1041204_bengal_index.utf8
+
+Unknown Event                                      1041204_bengal_story_4085879.utf8
+
+Unknown Event                                      1041204_bengal_story_4085880.utf8
+
+Unknown Event                                      1041204_bengal_story_4085881.utf8
+
+Unknown Event                                      1041204_bengal_story_4085882.utf8
+
+Unknown Event                                      1041204_bengal_story_4085883.utf8
+
+Unknown Event                                      1041204_bengal_story_4085884.utf8
+
+Unknown Event                                      1041205_bengal_index.utf8
+
+Facility/Infrastructure Attack                     1041205_bengal_story_4088812.utf8
+
+Armed Assault                                      1041205_bengal_story_4088813.utf8
+
+Unknown Event                                      1041205_bengal_story_4088814.utf8
+
+Unknown Event                                      1041205_bengal_story_4088815.utf8
+
+Unknown Event                                      1041205_bengal_story_4088816.utf8
+
+Unknown Event                                      1041205_bengal_story_4088817.utf8
+
+Unknown Event                                      1041205_bengal_story_4088818.utf8
+
+Unknown Event                                      1041205_bengal_story_4088820.utf8
+
+Facility/Infrastructure Attack                     1041205_bengal_story_4089027.utf8
+
+Unknown Event                                      1041205_bengal_story_4089028.utf8
+
+Unknown Event                                      1041205_bengal_story_4089030.utf8
+
+Unknown Event                                      1041205_bengal_story_4089031.utf8
+
+Assassination                                      1041205_bengal_story_4089032.utf8
+
+Unknown Event                                      1041205_bengal_story_4089033.utf8
+
+Unknown Event                                      1041205_bengal_story_4089565.utf8
+
+Unknown Event                                      1041206_bengal_index.utf8
+
+Facility/Infrastructure Attack                     1041206_bengal_story_4091956.utf8
+
+Unknown Event                                      1041206_bengal_story_4091958.utf8
+
+Unknown Event                                      1041206_bengal_story_4091959.utf8
+
+Unknown Event                                      1041206_bengal_story_4091961.utf8
+
+Unknown Event                                      1041206_bengal_story_4092152.utf8
+
+Unknown Event                                      1041207_bengal_index.utf8
+
+Unknown Event                                      1041207_bengal_story_4096329.utf8
+
+Unknown Event                                      1041207_bengal_story_4096330.utf8
+
+Unknown Event                                      1041207_bengal_story_4096331.utf8
+
+Unknown Event                                      1041207_bengal_story_4096395.utf8
+
+Unknown Event                                      1041207_bengal_story_4096498.utf8
+
+Unknown Event                                      1041208_bengal_index.utf8
+
+Unknown Event                                      1041208_bengal_story_4099422.utf8
+
+Unknown Event                                      1041208_bengal_story_4100925.utf8
+
+Unknown Event                                      1041208_bengal_story_4100926.utf8
+
+Unknown Event                                      1041208_bengal_story_4100927.utf8
+
+Unknown Event                                      1041208_bengal_story_4100928.utf8
+
+Unknown Event                                      1041208_bengal_story_4100929.utf8
+
+Unknown Event                                      1041208_bengal_story_4100930.utf8
+
+Unknown Event                                      1041208_bengal_story_4100932.utf8
+
+Unknown Event                                      1041208_bengal_story_4101251.utf8
+
+Unknown Event                                      1041209_bengal_index.utf8
+
+Unknown Event                                      1041209_bengal_story_4105674.utf8
+
+Unknown Event                                      1041209_bengal_story_4105675.utf8
+
+Unknown Event                                      1041209_bengal_story_4105676.utf8
+
+Unknown Event                                      1041209_bengal_story_4105677.utf8
+
+Unknown Event                                      1041209_bengal_story_4105678.utf8
+
+Unknown Event                                      1041209_bengal_story_4105679.utf8
+
+Unknown Event                                      1041209_bengal_story_4106028.utf8
+
+Unknown Event                                      1041210_bengal_index.utf8
+
+Unknown Event                                      1041210_bengal_story_4110233.utf8
+
+Unknown Event                                      1041210_bengal_story_4110234.utf8
+
+Unknown Event                                      1041210_bengal_story_4110235.utf8
+
+Bombing/Explosion                                  1041210_bengal_story_4110236.utf8
+
+Unknown Event                                      1041210_bengal_story_4110237.utf8
+
+Armed Assault                                      1041210_bengal_story_4110688.utf8
+
+Unknown Event                                      1041211_bengal_index.utf8
+
+Unknown Event                                      1041211_bengal_story_4115147.utf8
+
+Unknown Event                                      1041211_bengal_story_4115148.utf8
+
+Unknown Event                                      1041211_bengal_story_4115149.utf8
+
+Unknown Event                                      1041211_bengal_story_4115150.utf8
+
+Unknown Event                                      1041211_bengal_story_4115152.utf8
+
+Unknown Event                                      1041212_bengal_index.utf8
+
+Unknown Event                                      1041212_bengal_story_4118982.utf8
+
+Unknown Event                                      1041212_bengal_story_4118983.utf8
+
+Unknown Event                                      1041212_bengal_story_4118984.utf8
+
+Unknown Event                                      1041212_bengal_story_4118985.utf8
+
+Unknown Event                                      1041212_bengal_story_4118986.utf8
+
+Unknown Event                                      1041212_bengal_story_4118987.utf8
+
+Unknown Event                                      1041212_bengal_story_4118988.utf8
+
+Unknown Event                                      1041213_bengal_index.utf8
+
+Unknown Event                                      1041213_bengal_story_4122186.utf8
+
+Unknown Event                                      1041213_bengal_story_4122187.utf8
+
+Facility/Infrastructure Attack                     1041213_bengal_story_4122189.utf8
+
+Unknown Event                                      1041213_bengal_story_4122190.utf8
+
+Unknown Event                                      1041213_bengal_story_4122192.utf8
+
+Unknown Event                                      1041214_bengal_index.utf8
+
+Unknown Event                                      1041214_bengal_story_4126056.utf8
+
+Unknown Event                                      1041214_bengal_story_4126058.utf8
+
+Unknown Event                                      1041214_bengal_story_4126059.utf8
+
+Unknown Event                                      1041214_bengal_story_4126060.utf8
+
+Unknown Event                                      1041214_bengal_story_4126061.utf8
+
+Unknown Event                                      1041214_bengal_story_4126063.utf8
+
+Unknown Event                                      1041215_bengal_index.utf8
+
+Unknown Event                                      1041215_bengal_story_4130486.utf8
+
+Unknown Event                                      1041215_bengal_story_4130487.utf8
+
+Unknown Event                                      1041215_bengal_story_4130490.utf8
+
+Unknown Event                                      1041215_bengal_story_4130491.utf8
+
+Unknown Event                                      1041215_bengal_story_4130492.utf8
+
+Unknown Event                                      1041215_bengal_story_4130769.utf8
+
+Unknown Event                                      1041216_bengal_index.utf8
+
+Unknown Event                                      1041216_bengal_story_4134892.utf8
+
+Unknown Event                                      1041216_bengal_story_4134893.utf8
+
+Unknown Event                                      1041216_bengal_story_4134894.utf8
+
+Unknown Event                                      1041216_bengal_story_4134895.utf8
+
+Facility/Infrastructure Attack                     1041216_bengal_story_4135530.utf8
+
+Unknown Event                                      1041217_bengal_index.utf8
+
+Unknown Event                                      1041217_bengal_story_4139810.utf8
+
+Unknown Event                                      1041217_bengal_story_4139811.utf8
+
+Unknown Event                                      1041217_bengal_story_4139812.utf8
+
+Unknown Event                                      1041217_bengal_story_4140051.utf8
+
+Unknown Event                                      1041218_bengal_index.utf8
+
+Unknown Event                                      1041218_bengal_story_4144684.utf8
+
+Unknown Event                                      1041218_bengal_story_4144685.utf8
+
+Unknown Event                                      1041218_bengal_story_4144686.utf8
+
+Unknown Event                                      1041218_bengal_story_4144687.utf8
+
+Unknown Event                                      1041218_bengal_story_4144688.utf8
+
+Unknown Event                                      1041218_bengal_story_4144723.utf8
+
+Unknown Event                                      1041219_bengal_index.utf8
+
+Unknown Event                                      1041219_bengal_story_4147969.utf8
+
+Unarmed Assault                                    1041219_bengal_story_4147970.utf8
+
+Unknown Event                                      1041219_bengal_story_4147971.utf8
+
+Unknown Event                                      1041219_bengal_story_4147972.utf8
+
+Unknown Event                                      1041219_bengal_story_4147973.utf8
+
+Unknown Event                                      1041219_bengal_story_4147974.utf8
+
+Unknown Event                                      1041219_bengal_story_4148009.utf8
+
+Hostage                                            1041219_bengal_story_4148011.utf8
+
+Unknown Event                                      1041219_bengal_story_4148012.utf8
+
+Unknown Event                                      1041219_bengal_story_4148013.utf8
+
+Unknown Event                                      1041219_bengal_story_4148014.utf8
+
+Unknown Event                                      1041219_bengal_story_4148015.utf8
+
+Unknown Event                                      1041219_bengal_story_4148016.utf8
+
+Unknown Event                                      1041219_bengal_story_4148051.utf8
+
+Unknown Event                                      1041220_bengal_index.utf8
+
+Unknown Event                                      1041220_bengal_story_4151101.utf8
+
+Unknown Event                                      1041220_bengal_story_4151102.utf8
+
+Unknown Event                                      1041220_bengal_story_4151103.utf8
+
+Unknown Event                                      1041220_bengal_story_4151104.utf8
+
+Unknown Event                                      1041220_bengal_story_4151105.utf8
+
+Unknown Event                                      1041220_bengal_story_4151106.utf8
+
+Unknown Event                                      1041221_bengal_index.utf8
+
+Unknown Event                                      1041221_bengal_story_4155198.utf8
+
+Unknown Event                                      1041221_bengal_story_4155199.utf8
+
+Facility/Infrastructure Attack                     1041221_bengal_story_4155200.utf8
+
+Unknown Event                                      1041221_bengal_story_4155202.utf8
+
+Unknown Event                                      1041221_bengal_story_4155203.utf8
+
+Unknown Event                                      1041221_bengal_story_4155204.utf8
+
+Bombing/Explosion                                  1041221_bengal_story_4155363.utf8
+
+Unknown Event                                      1041222_bengal_index.utf8
+
+Unknown Event                                      1041222_bengal_story_4159450.utf8
+
+Unknown Event                                      1041222_bengal_story_4159451.utf8
+
+Unknown Event                                      1041222_bengal_story_4159452.utf8
+
+Unknown Event                                      1041222_bengal_story_4159453.utf8
+
+Unknown Event                                      1041222_bengal_story_4159781.utf8
+
+Unknown Event                                      1041223_bengal_index.utf8
+
+Unknown Event                                      1041223_bengal_story_4164765.utf8
+
+Unknown Event                                      1041223_bengal_story_4164766.utf8
+
+Unknown Event                                      1041223_bengal_story_4164767.utf8
+
+Unknown Event                                      1041223_bengal_story_4164768.utf8
+
+Unknown Event                                      1041223_bengal_story_4164769.utf8
+
+Unknown Event                                      1041223_bengal_story_4164770.utf8
+
+Unarmed Assault                                    1041223_bengal_story_4164771.utf8
+
+Unknown Event                                      1041223_bengal_story_4164772.utf8
+
+Unknown Event                                      1041223_bengal_story_4164773.utf8
+
+Hostage                                            1041224_bengal_index.utf8
+
+Hostage                                            1041224_bengal_story_4168757.utf8
+
+Unknown Event                                      1041224_bengal_story_4169250.utf8
+
+Unknown Event                                      1041224_bengal_story_4169251.utf8
+
+Unknown Event                                      1041224_bengal_story_4169252.utf8
+
+Unknown Event                                      1041224_bengal_story_4169253.utf8
+
+Unknown Event                                      1041224_bengal_story_4169254.utf8
+
+Unknown Event                                      1041224_bengal_story_4169255.utf8
+
+Unknown Event                                      1041225_bengal_index.utf8
+
+Unknown Event                                      1041225_bengal_story_4173122.utf8
+
+Unknown Event                                      1041225_bengal_story_4173123.utf8
+
+Unknown Event                                      1041225_bengal_story_4173124.utf8
+
+Unknown Event                                      1041225_bengal_story_4173125.utf8
+
+Unknown Event                                      1041225_bengal_story_4173126.utf8
+
+Unknown Event                                      1041225_bengal_story_4173332.utf8
+
+Unknown Event                                      1041226_bengal_index.utf8
+
+Unknown Event                                      1041226_bengal_story_4176098.utf8
+
+Unknown Event                                      1041226_bengal_story_4176099.utf8
+
+Unknown Event                                      1041226_bengal_story_4176100.utf8
+
+Unknown Event                                      1041226_bengal_story_4176101.utf8
+
+Unknown Event                                      1041226_bengal_story_4176102.utf8
+
+Unknown Event                                      1041226_bengal_story_4176103.utf8
+
+Unknown Event                                      1041226_bengal_story_4176104.utf8
+
+Unknown Event                                      1041226_bengal_story_4176105.utf8
+
+Unknown Event                                      1041226_bengal_story_4176248.utf8
+
+Unknown Event                                      1041226_bengal_story_4176249.utf8
+
+Unknown Event                                      1041226_bengal_story_4176250.utf8
+
+Unknown Event                                      1041226_bengal_story_4176251.utf8
+
+Unknown Event                                      1041226_bengal_story_4176252.utf8
+
+Unknown Event                                      1041226_bengal_story_4176253.utf8
+
+Unknown Event                                      1041226_bengal_story_4176254.utf8
+
+Armed Assault                                      1041226_bengal_story_4176722.utf8
+
+Unknown Event                                      1041227_bengal_index.utf8
+
+Unknown Event                                      1041227_bengal_story_4179294.utf8
+
+Unknown Event                                      1041227_bengal_story_4179295.utf8
+
+Unknown Event                                      1041227_bengal_story_4179296.utf8
+
+Unknown Event                                      1041227_bengal_story_4179297.utf8
+
+Unknown Event                                      1041227_bengal_story_4179298.utf8
+
+Unknown Event                                      1041227_bengal_story_4179299.utf8
+
+Unknown Event                                      1041227_bengal_story_4179347.utf8
+
+Unknown Event                                      1041228_bengal_index.utf8
+
+Unknown Event                                      1041228_bengal_story_4183711.utf8
+
+Unknown Event                                      1041228_bengal_story_4183712.utf8
+
+Unknown Event                                      1041228_bengal_story_4183713.utf8
+
+Unknown Event                                      1041228_bengal_story_4183714.utf8
+
+Unknown Event                                      1041228_bengal_story_4183715.utf8
+
+Unknown Event                                      1041228_bengal_story_4183716.utf8
+
+Unknown Event                                      1041228_bengal_story_4183717.utf8
+
+Unknown Event                                      1041228_bengal_story_4183718.utf8
+
+Unknown Event                                      1041229_bengal_index.utf8
+
+Unknown Event                                      1041229_bengal_story_4187824.utf8
+
+Unknown Event                                      1041229_bengal_story_4187825.utf8
+
+Unknown Event                                      1041229_bengal_story_4187826.utf8
+
+Unknown Event                                      1041229_bengal_story_4187828.utf8
+
+Unknown Event                                      1041229_bengal_story_4187829.utf8
+
+Unknown Event                                      1041230_bengal_index.utf8
+
+Unknown Event                                      1041230_bengal_story_4191788.utf8
+
+Unknown Event                                      1041230_bengal_story_4191789.utf8
+
+Unknown Event                                      1041230_bengal_story_4191790.utf8
+
+Unknown Event                                      1041230_bengal_story_4191791.utf8
+
+Armed Assault                                      1041230_bengal_story_4191861.utf8
+
+Unknown Event                                      1041231_bengal_index.utf8
+
+Armed Assault                                      1041231_bengal_story_4194933.utf8
+
+Unknown Event                                      1041231_bengal_story_4194934.utf8
+
+Unknown Event                                      1041231_bengal_story_4194935.utf8
+
+Unknown Event                                      1041231_bengal_story_4194936.utf8
+
+Unknown Event                                      1041231_bengal_story_4195522.utf8
+
+Unknown Event                                      1040901_business_index.utf8
+
+Unknown Event                                      1040901_business_story_3700171.utf8
+

@@ -1,0 +1,56 @@
+Attack type                                                          : Assassination
+Correct classification as           Assassination                    : 405
+Correct classification                                               : 409
+Other correct classification into                                    : ['Bombing/Explosion', 'Armed Assault']
+Incorrect classification                                             : 4269
+Misclassification into                                               : ['Armed Assault', 'Bombing/Explosion', 'Hijacking', 'Facility/Infrastructure Attack', 'Hostage', 'Unarmed Assault']
+====================================================================================================
+Attack type                                                          : Armed Assault
+Correct classification as           Armed Assault                    : 13465
+Correct classification                                               : 13635
+Other correct classification into                                    : ['Bombing/Explosion', 'Facility/Infrastructure Attack', 'Assassination', 'Hijacking']
+Incorrect classification                                             : 1342
+Misclassification into                                               : ['Facility/Infrastructure Attack', 'Assassination', 'Hostage', 'Hijacking', 'Unarmed Assault', 'Bombing/Explosion']
+====================================================================================================
+Attack type                                                          : Facility/Infrastructure Attack
+Correct classification as           Facility/Infrastructure Attack   : 1873
+Correct classification                                               : 1902
+Other correct classification into                                    : ['Armed Assault', 'Bombing/Explosion']
+Incorrect classification                                             : 663
+Misclassification into                                               : ['Bombing/Explosion', 'Armed Assault', 'Unarmed Assault', 'Assassination', 'Hostage', 'Hijacking']
+====================================================================================================
+Attack type                                                          : Unarmed Assault
+Correct classification as           Unarmed Assault                  : 33
+Correct classification                                               : 49
+Other correct classification into                                    : ['Facility/Infrastructure Attack']
+Incorrect classification                                             : 64
+Misclassification into                                               : ['Bombing/Explosion', 'Facility/Infrastructure Attack', 'Hijacking', 'Armed Assault', 'Assassination']
+====================================================================================================
+Attack type                                                          : Hijacking
+Correct classification as           Hijacking                        : 163
+Correct classification                                               : 178
+Other correct classification into                                    : ['Armed Assault', 'Facility/Infrastructure Attack']
+Incorrect classification                                             : 54
+Misclassification into                                               : ['Bombing/Explosion', 'Assassination', 'Armed Assault', 'Hostage', 'Unarmed Assault', 'Facility/Infrastructure Attack']
+====================================================================================================
+Attack type                                                          : Bombing/Explosion
+Correct classification as           Bombing/Explosion                : 20284
+Correct classification                                               : 21110
+Other correct classification into                                    : ['Facility/Infrastructure Attack', 'Armed Assault', 'Assassination', 'Hijacking', 'Unarmed Assault']
+Incorrect classification                                             : 6952
+Misclassification into                                               : ['Facility/Infrastructure Attack', 'Armed Assault', 'Unarmed Assault', 'Assassination', 'Hijacking', 'Hostage', 'Cyberattacks']
+====================================================================================================
+Attack type                                                          : Cyberattacks
+Correct classification as           Cyberattacks                     : 0
+Correct classification                                               : 0
+Other correct classification into                                    : []
+Incorrect classification                                             : 0
+Misclassification into                                               : []
+====================================================================================================
+Attack type                                                          : Hostage
+Correct classification as           Hostage                          : 124
+Correct classification                                               : 207
+Other correct classification into                                    : ['Armed Assault', 'Bombing/Explosion', 'Facility/Infrastructure Attack']
+Incorrect classification                                             : 53
+Misclassification into                                               : ['Bombing/Explosion', 'Armed Assault', 'Hijacking', 'Unarmed Assault', 'Facility/Infrastructure Attack']
+====================================================================================================

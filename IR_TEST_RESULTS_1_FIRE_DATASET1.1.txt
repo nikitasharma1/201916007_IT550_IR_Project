@@ -1,0 +1,10 @@
+==========================================
+1. Assassination                  : 767
+2. Armed Assault                  : 2173
+3. Facility/Infrastructure Attack : 1566
+4. Unarmed Assault                : 308
+5. Hijacking                      : 84
+6. Bombing/Explosion              : 5077
+7. Cyberattacks                   : 14
+8. Hostage                        : 198
+==========================================
